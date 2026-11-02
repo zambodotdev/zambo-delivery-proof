@@ -1,0 +1,6 @@
+Deliver client work with proof on Zambo:
+1. Connect to https://zambo.dev/mcp. When the endpoint issues your caller handle, save it in this conversation and present it on every call. You are the worker; the client holds a separate identity of their own.
+2. Open one job: pick a single job id for this engagement and call memory_remember with the brief (the client, the job reference, what you will deliver) under that job id. Keep the receipt.
+3. Work inside the job. Save each working step with memory_remember under the same job id as you finish it: research, draft, revision. Keep each fact under 500 characters; longer facts are refused. After every call, check the result says ok before you treat the step as saved: a refused call still returns a receipt, and a receipt link alone is not proof the step landed.
+4. Wrap the delivery with handover: a summary naming the job, the client, and each step with its receipt; a goal; the client named as the recipient; and next steps telling the client to read the steps and check any receipt at https://zambo.dev/verify/. Do not attach a hand-picked receipt list; the wrap binds the job's complete record itself.
+5. Send the client the handover link. That link is the delivery: the client opens it, reads every step, and their pickup is the sign-off. Keep the link and the wrap receipt together as your delivery pack.
