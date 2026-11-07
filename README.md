@@ -104,7 +104,9 @@ Agent packages that teach one pattern each, Zambo baked in:
   verified at pickup. https://pypi.org/project/zambo-swarm/ ·
   https://github.com/zambodotdev/zambo-swarm-coordination
 
-<!-- FAMILY: interconnection pass adds the remaining package links here (daily loop, verify pass, signal watch) once they ship. -->
+- Daily loop: pick up the same job tomorrow, recall its baseline, keep one job alive across sessions. https://pypi.org/project/zambo-loop/ · https://github.com/zambodotdev/zambo-daily-loop
+- Verify pass: check a claim against its receipt of record before you rely on it. https://pypi.org/project/zambo-verify-pass/ · https://github.com/zambodotdev/zambo-verify-pass
+- Signal watch: check the same signal on a schedule and prove what it saw, quiet days included. https://pypi.org/project/zambo-watch/ · https://github.com/zambodotdev/zambo-signal-watch
 
 ## Links
 
@@ -113,5 +115,7 @@ Agent packages that teach one pattern each, Zambo baked in:
 - Full guide: https://rambozambodotdev.gitlab.io/aer1-hub/delivery-proof-package.html
 - Verify any receipt: https://zambo.dev/verify/
 - This package: https://github.com/zambodotdev/zambo-delivery-proof
+- This package on PyPI: https://pypi.org/project/zambo-delivery/
+- This package on npm: https://www.npmjs.com/package/zambo-delivery
 - Sister pattern, swarm coordination:
   https://github.com/zambodotdev/zambo-swarm-coordination
