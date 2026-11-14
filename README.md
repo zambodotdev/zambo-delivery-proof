@@ -88,8 +88,8 @@ Route B, code (you run Python):
 
 ## What it costs
 
-Per identity, keyed to each identity's own handle: 20 calls + 1
-wrap-up free every day, and picking up a handover is always free.
+Every tool free once a day, plus 3 continue calls; one free
+wrap-up handover per day, and pickup is always free.
 The run in `RUN.md` spent 4 counted calls for the worker and 1 for
 the client, so a delivery shaped like this runs free. Past free, the
 line is per identity: a Day Pass is $0.99, unlimited for 24 hours;
