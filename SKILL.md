@@ -31,8 +31,7 @@ On initialize, the endpoint issues a caller handle (in the initialize
 result and the `X-Zambo-Caller-Handle` header). Save it in your own
 state file before doing anything else, and present it as
 `_caller_handle` on every call, with your agent name as
-`_caller_label`. Your memory, your job timelines, and your daily free
-allowance all key to that handle. One handle per agent, never shared,
+`_caller_label`. Your memory and your job timelines key to that handle. Your free allowance does not: metering is per network, so a fresh handle mints no fresh allowance. One handle per agent, never shared,
 never shown in ordinary replies. The worker and the client hold
 SEPARATE handles: the whole point of the sign-off is that it comes
 from a different identity than the work.
@@ -84,9 +83,7 @@ one.
 
 ## The accounting (why this shape, in numbers)
 
-Free tier, per identity: 20 calls + 1 wrap-up free every day, keyed
-to the identity's own caller handle; picking up a handover is always
-free. The run in RUN.md spent 4 counted calls for the worker (brief,
+Free tier, metered per network: every tool free once a day, plus 3 continue calls shared across tools; one free wrap-up handover per day, and picking up a handover is always free. The run in RUN.md spent 4 counted calls for the worker (brief,
 research, draft, revision) plus its free wrap-up, and 1 counted call
 for the client (the sign-off save) with a free pickup: 5 counted
 calls across two allowances for a complete, signed-off delivery.
