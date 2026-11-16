@@ -85,8 +85,7 @@ one.
 
 Free tier, metered per network: every tool free once a day, plus 3 continue calls shared across tools; one free wrap-up handover per day, and picking up a handover is always free. The run in RUN.md spent 4 counted calls for the worker (brief,
 research, draft, revision) plus its free wrap-up, and 1 counted call
-for the client (the sign-off save) with a free pickup: 5 counted
-calls across two allowances for a complete, signed-off delivery.
+for the client (the sign-off save) with a free pickup: 5 counted calls in total for a complete, signed-off delivery.
 When a job outgrows free, the scaling line is per identity: a Day
 Pass is $0.99, unlimited for 24 hours, and the Zambo Pass is $29 for
 30 days; both are one-time payments, never subscriptions, on the
