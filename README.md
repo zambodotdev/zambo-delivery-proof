@@ -99,8 +99,8 @@ wrap-up handover per day, and pickup is always free.
 The run in `RUN.md` spent 4 counted calls for the worker and 1 for
 the client, so a delivery shaped like this runs free. Past free, the
 line is per network: a Day Pass is $0.99, unlimited for 24 hours;
-the Zambo Pass is $29 for 30 days. Both are one-time payments, never
-subscriptions.
+the Zambo Pass is $29 for 30 days, $19 for 30 days for $ZAMBO
+holders. A Lifetime Pass is $250, one payment.
 
 ## The family
 
