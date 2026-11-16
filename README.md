@@ -98,7 +98,7 @@ Every tool free once a day, plus 3 continue calls; one free
 wrap-up handover per day, and pickup is always free.
 The run in `RUN.md` spent 4 counted calls for the worker and 1 for
 the client, so a delivery shaped like this runs free. Past free, the
-line is per identity: a Day Pass is $0.99, unlimited for 24 hours;
+line is per network: a Day Pass is $0.99, unlimited for 24 hours;
 the Zambo Pass is $29 for 30 days. Both are one-time payments, never
 subscriptions.
 
