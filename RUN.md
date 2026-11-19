@@ -56,12 +56,9 @@ and sequence are the shipped file's own).
 
 ## Free-tier accounting, counted from the run's own counters
 
-- Worker: 4 counted calls (brief, research, draft, revision) of its
-  20 free daily calls, plus its 1 free daily wrap-up.
-- Client: the pickup was free; the sign-off save was 1 counted call
-  of its 20 free daily calls.
-- Whole delivery: 5 counted calls across two separate allowances,
-  zero paid calls. A delivery shaped like this runs free.
+- Worker: 4 counted calls (brief, research, draft, revision), plus the free daily wrap-up.
+- Client: the pickup was free; the sign-off save was 1 counted call.
+- Whole delivery: 5 counted calls inside the shared per-network free allowance, zero paid calls. Free tier: Every tool free once a day, plus 3 continue calls. One free wrap-up handover per day, and pickup is always free. A delivery shaped like this runs free.
 
 ## What the build runs taught (both lessons are in the shipped code)
 
